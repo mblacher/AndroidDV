@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="modelos">
+        <item id="0">iPhone 6S</item>
+        <item id="1">4ta Generacion</item>
+        <item id="2">S7 Edge</item>
+        <item id="3">M5</item>
+        <item id="4">Lumia</item>
+
+    </string-array>
+
+</resources>

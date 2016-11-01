@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SafeMode</string>
+    <string name="saludoInicial">El modo más seguro de comprar!</string>
+    <string name="button1">Continuar</string>
+    <string name="btnLogin">Iniciar Sesion</string>
+    <string name="btnRegistrer">Registrate</string>
+    <string name="msjLogin">Bienvenido a Safe Mode</string>
+    <string name="textMail">Correo Electronico</string>
+    <string name="textPassword">Contraseña</string>
+    <string name="txtReg">Registro de nuevo usuario</string>
+    <string name="btnReg">Alta de Usuario</string>
+    <string name="ins">Insertar</string>
+    <string name="act">Actualizar</string>
+    <string name="elim">Eliminar</string>
+    <string name="cons">Consultar</string>
+    <string name="txtUser">Usuario</string>
+    <string name="txtProductos">Lista de Poductos</string>
+    <string name="txtMarcasCel">Marca de Celulares</string>
+    <string name="txtModelo">Modelos</string>
+    <string name="txtModUser">Modificar Usuario</string>
+    <string name="txtBajaUser">Baja de Usuario</string>
+    <string name="txtAbout1">Desarrollado por Matias Blacher. Estudiante de la Escuela Davinci. Con el objetivo de manejar el control de productos.</string>
+    <string name="btnAbout">About</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="marcas">
+        <item id="0">Apple</item>
+        <item id="1">Motorola</item>
+        <item id="2">Samsung</item>
+        <item id="3">Sony</item>
+        <item id="4">Nokia</item>
+
+   </string-array>
+
+</resources>
