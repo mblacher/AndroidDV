@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "338025157639",
+    "firebase_url": "https://android-spinner.firebaseio.com",
+    "project_id": "android-spinner",
+    "storage_bucket": "android-spinner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338025157639:android:2900d872f4382533",
+        "android_client_info": {
+          "package_name": "net.sgoliver.android.spinner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338025157639-2i7nn5r22ivkgtael7910vmanka3vaj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.sgoliver.android.spinner",
+            "certificate_hash": "7F6827BA082A1DCF7121E9B4CD83A7C2185224CD"
+          }
+        },
+        {
+          "client_id": "338025157639-r801q2b2bi2ct399ok1phuemlod9norq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBItK_POdhiRI6SbM6Ogs0kryiiCmh-5r0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338025157639-r801q2b2bi2ct399ok1phuemlod9norq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
